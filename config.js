@@ -1,0 +1,1 @@
+export const API_URL = 'http://aminacargo.kz:3001/'
